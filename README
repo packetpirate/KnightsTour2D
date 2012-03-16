@@ -1,0 +1,21 @@
+-----------------------
+Author: Darin Beaudreau
+Last Update: 03/16/2012
+Version: 1.1
+Language: Java
+-----------------------
+
+How to Play:
+------------
+The Knight's Tour is a game based off of Chess. The objective is simple. You must use the Knight piece to visit each tile on the Chess board without revisiting any spots. If you run out of valid moves, you lose. If you manage to visit all 64 spaces on the board without revisiting any, you win.
+
+Tile Colors:
+------------
+Each tile is color-coded, and each color means something. Here is a list of the color-coded meanings:
+
+- White: Unvisited (You may move here.)
+- Red: Visited (You can not move here.)
+- Blue: The Knight (This is where you currently are.)
+- Green: Valid Moves (You can move to these places.)
+
+If you want to reset the game, simply click the Reset button to restore the board to its original settings. The number of moves you have left is shown next to the Reset button.
